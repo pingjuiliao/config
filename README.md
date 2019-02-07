@@ -1,2 +1,2 @@
-We have to place all the file manully.
+wqkpofkwpoWe have to place all the file manully.
 developing automation tools
