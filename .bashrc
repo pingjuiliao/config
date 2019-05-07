@@ -168,5 +168,6 @@ export behemoth="behemoth.labs.overthewire.org"
 export utumno="utumno.labs.overthewire.org"
 export maze="maze.labs.overthewire.org"
 export vortex="vortex.labs.overthewire.org"
+export linus="liaop@linus.eecs.oregonstate.edu"
 export access="liaop@access.engr.oregonstate.edu"
 
