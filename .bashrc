@@ -169,4 +169,5 @@ export utumno="utumno.labs.overthewire.org"
 export maze="maze.labs.overthewire.org"
 export vortex="vortex.labs.overthewire.org"
 export access="liaop@access.engr.oregonstate.edu"
+export jos="liaop@vm-jos.unexploitable.systems"
 
