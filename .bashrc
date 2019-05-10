@@ -170,4 +170,4 @@ export maze="maze.labs.overthewire.org"
 export vortex="vortex.labs.overthewire.org"
 export linus="liaop@linus.eecs.oregonstate.edu"
 export access="liaop@access.engr.oregonstate.edu"
-
+export ida="liaop@linux-ida.lab.osusec.org"
