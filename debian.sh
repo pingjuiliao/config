@@ -1,5 +1,6 @@
 #!/bin/bash
 sudo apt update
+
 ## basic
 sudo apt install -y build-essential vim python python-pip tmux python3-pip
 ## llvm
