@@ -150,6 +150,11 @@ C_BG_LIGHTGRAY="\[\033[47m\]"
 
 export PS1="\n$C_LIGHTGREEN\u$C_CYAN@$C_BLUE\h $C_CYAN: $C_LIGHTYELLOW\w\n$C_CYAN\$$C_DEFAULT "
 export PATH=$PATH:/home/pingjui/bin:/home/pingjui/retdec/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HOME/cgc-analysis/cb-multios/build/include:$HOME/cgc-analysis/cb-multios/build/include/tiny-AES128-C
+
+## Angora fuzzer
+export PATH=/path-to-clang/bin:$PATH
+export LD_LIBRARY_PATH=/path-to-clang/lib:$LD_LIBRARY_PATH
 
 
 ######################
@@ -172,4 +177,6 @@ export linus="liaop@linus.eecs.oregonstate.edu"
 export access="liaop@access.engr.oregonstate.edu"
 export ida="liaop@linux-ida.lab.osusec.org"
 export jos="liaop@vm-jos.unexploitable.systems"
-
+export PIN_ROOT=/home/pingjui/pin3.7_plugin
+export sally="pingjui@sally.unexploitable.systems"
+export ivy="pingjui@ivy.unexploitable.systems"
