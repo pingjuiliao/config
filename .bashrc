@@ -160,23 +160,5 @@ export LD_LIBRARY_PATH=/path-to-clang/lib:$LD_LIBRARY_PATH
 ######################
 ###### MY ENV  #######
 ######################
-export ctf="liaop@vm-ctf1.eecs.oregonstate.edu"
-export ctf2="liaop@vm-ctf2.eecs.oregonstate.edu"
-export ctf3="liaop@vm-ctf3.eecs.oregonstate.edu"
-export fuzz="liaop@vm-ctf5.eecs.oregonstate.edu"
-export arm32="-p222 liaop@sgx-laptop.eecs.oregonstate.edu"
-export arm64="liaop@sgx-laptop.eecs.oregonstate.edu"
-export bandit="bandit.labs.overthewire.org"
-export leviathan="leviathan.labs.overthewire.org"
-export narnia="narnia.labs.overthewire.org"
-export behemoth="behemoth.labs.overthewire.org"
-export utumno="utumno.labs.overthewire.org"
-export maze="maze.labs.overthewire.org"
-export vortex="vortex.labs.overthewire.org"
-export linus="liaop@linus.eecs.oregonstate.edu"
-export access="liaop@access.engr.oregonstate.edu"
-export ida="liaop@linux-ida.lab.osusec.org"
-export jos="liaop@vm-jos.unexploitable.systems"
-export PIN_ROOT=/home/pingjui/pin3.7_plugin
 export sally="pingjui@sally.unexploitable.systems"
-export ivy="pingjui@ivy.unexploitable.systems"
+alias marcie="pingjui@fw-kec3031-marcie.eecs.oregonstate.edu"
