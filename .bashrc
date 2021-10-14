@@ -161,4 +161,4 @@ export LD_LIBRARY_PATH=/path-to-clang/lib:$LD_LIBRARY_PATH
 ###### MY ENV  #######
 ######################
 export sally="pingjui@sally.unexploitable.systems"
-alias marcie="pingjui@fw-kec3031-marcie.eecs.oregonstate.edu"
+export marcie="pingjui@fw-kec3031-marcie.eecs.oregonstate.edu"
